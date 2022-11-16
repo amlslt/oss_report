@@ -33,7 +33,6 @@
 - 슬랙웨어 계열
      - Slackware Linux - 가장 유닉스 다운 리눅스
 - 맨드리바 계열
-     - Open Man진행driva Lx
      - PCLinuxOS
 - 안드로이드 계열
      - Android - 현재 ios와 더불어 가장 많은 비중을 차지한다
